@@ -1,5 +1,5 @@
 # MonkeyPox-Cases-in-EU
-ReadMe Template
+
 
 # Project Name
 Changes in the Number of MonkeyPox Cases in EE/EEA (May, June, July of 2022)
