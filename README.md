@@ -38,6 +38,10 @@ The purpose of this project is to explore trends in the numbers of MonkeyPox cas
 
 * Map shows name of the country, number of cases, and population count. Hover over the map to display additional information such as Rank of the confirmed cases (Descending), and month 
 
+## Observations:
+* Fewer cases of MonkeyPox reported in May 2022 comaring to June and July of the same year
+*  Spain had the highest incidence rate: 5.22 per 100,000 population
+* Slovakia had the lowest incidence rate: 0.02 per 100,000 population
 
 ## Needs of this project
 
