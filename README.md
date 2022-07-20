@@ -26,7 +26,7 @@ The purpose of this project is to explore trends in the numbers of MonkeyPox cas
 
 * I combined my two datasets using relationship btween the two datasets
 
-* I explored MonkeyPox cases cross countries. 
+* I explored MonkeyPox cases for each country. 
 
 * I Categorized MonkeyPox Cases into five categories for better visualization. 
 
