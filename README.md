@@ -14,9 +14,9 @@ The purpose of this project is to explore trends in the numbers of MonkeyPox cas
 
 ### Technologies
 * Tableau 
-* You can view my dashboard by clicking [here]( https://public.tableau.com/views/NumberofMonkeyPoxCasesinEuropeandPopulationCountforeachCountryMay2022toJuly2022/MonleypoxCasesintheEUEEA?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+* You can view my dashboard [on my Tableau public account]( https://public.tableau.com/views/NumberofMonkeyPoxCasesinEuropeandPopulationCountforeachCountryMay2022toJuly2022/MonleypoxCasesintheEUEEA?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) 
 * workbook can be found [here]( https://github.com/salbadri/Number-of-MonkeyPox-Cases-in-EU/blob/main/Number%20of%20MonkeyPox%20Cases%20in%20Europe%20and%20Population%20Count%20for%20each%20Country(May2022%20to%20July2022).twb)
-* Also can view my dashboard in chrome browser using this [HTML](https://github.com/salbadri/MonkeyPox-Cases-in-EU-EEA-Using-Tableau/blob/main/index.html)file
+* Also can view my dashboard on [my github page](https://salbadri.github.io/MonkeyPox-Cases-in-EU-EEA-Using-Tableau/)
 
 ## Project Description
 
