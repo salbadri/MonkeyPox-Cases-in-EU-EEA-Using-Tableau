@@ -15,7 +15,6 @@ This project explores the trends of MonkeyPox cases in Europe.
 * Tableau
 * View my dashboard on [Tableau Public](https://public.tableau.com/views/NumberofMonkeyPoxCasesinEuropeandPopulationCountforeachCountryMay2022toJuly2022/MonleypoxCasesintheEUEEA?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) 
 * Access the workbook [here](https://github.com/salbadri/Number-of-MonkeyPox-Cases-in-EU/blob/main/Number%20of%20MonkeyPox%20Cases%20in%20Europe%20and%20Population%20Count%20for%20each%20Country(May2022%20to%20July2022).twb)
-* Explore the dashboard on [my GitHub page](https://salbadri.github.io/MonkeyPox-Cases-in-EU-EEA-Using-Tableau/)
 
 ## Project Description
 
